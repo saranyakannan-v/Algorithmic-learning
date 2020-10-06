@@ -1,5 +1,5 @@
 # Corona-challenge
-###Learning objectives
+### Learning objectives
 
    - Improve your Bootstrap knowledge.
    - Improve your Sass knowledge.
